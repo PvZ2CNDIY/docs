@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "PvZ2中国版 高级创意庭院",
   description: "PvZ2中国版 高级创意庭院",
+  base: '/docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

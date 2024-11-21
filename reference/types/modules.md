@@ -27,7 +27,7 @@
 使卡槽内的卡片冷却缩短至原先的一半
 ### 参数
 * `CooldownMultiplier` : `float` 具体缩短的倍数，默认值为`0.5`
-* `HomeworldToExcludeFromOverride`: `string` **(尚不明确)** 其中排除掉的植物的所属世界，默认值为`""`
+* `HomeworldToExcludeFromOverride`: `string` <Badge type="warning" text="尚不确定" /> 其中排除掉的植物的所属世界，默认值为`""`
   * 该参数默认值为空，未发现实用
 
 ## DefaultSunDropper
@@ -35,7 +35,7 @@
 ### 参数
 * `InitialSunDropDelay` : `float` 初始阳光掉落延迟，默认值为`2.0`
 * `SunCountdownBase` : `float` 基础阳光掉落间隔，默认值为`4.25`
-* `SunCountdownRange` : `float` **(尚不明确)** 阳光掉落间隔的浮动范围，默认值为`2.75`
+* `SunCountdownRange` : `float` <Badge type="warning" text="尚不确定" /> 阳光掉落间隔的浮动范围，默认值为`2.75`
 * `SunCountdownIncreasePerSun` : `float` 每个阳光掉落后，阳光掉落间隔的增长量，默认值为`0.1`
 * `SunCountdownMax` : `float` 阳光掉落间隔的最大值，默认为`9.5`
 

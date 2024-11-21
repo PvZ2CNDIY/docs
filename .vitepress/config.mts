@@ -18,7 +18,7 @@ export default defineConfig({
         {
           text: '指引',
           items: [
-            { text: '施工中', link: '/guide/' },
+            { text: 'JSON语法简短介绍', link: '/guide/json' },
           ]
         }
       ],

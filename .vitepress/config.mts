@@ -29,7 +29,8 @@ export default defineConfig({
             { 
               text: '类型', 
               items: [
-                { text: '僵尸', link: '/reference/types/zombies' }
+                { text: '僵尸', link: '/reference/types/zombies' },
+                { text: '模块', link: '/reference/types/modules' },
               ]
             },
           ]

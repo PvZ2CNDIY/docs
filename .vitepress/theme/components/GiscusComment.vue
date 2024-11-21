@@ -4,7 +4,7 @@
             id="comments"
             repo="PvZ2CNDIY/docs"
             repoid="R_kgDONSsPmw"
-            category="Announcements"
+            category="General"
             categoryid="DIC_kwDONSsPm84Ckeai"
             mapping="pathname"
             term="留下你的意见!"

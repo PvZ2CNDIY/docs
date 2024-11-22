@@ -11,7 +11,7 @@ hero:
       text: 进入文档
       link: /guide
     - theme: alt
-      text: 进入创作者平台
-      link: /guide
+      text: 进入创作者平台(施工中)
+      link: /
 ---
 

@@ -22,7 +22,7 @@ export default defineConfig({
             { text: 'JSON语法简短介绍', link: '/guide/json' },
             { text: '基础', 
               items: [
-                { text: '文件结构', link: '/guide/fundamentals/structure' }
+                { text: '文件结构', link: '/guide/structure' }
               ]
             },
           ]

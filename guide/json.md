@@ -46,3 +46,10 @@ JSON文件中的空格、缩进、换行均可忽略，但是为了阅读方便�
 [JSON在线解析](https://www.json.cn/)
 
 [JSON格式化校验工具](https://www.bejson.com/)
+
+### 参考
+如您想要更加详细地学习JSON的语法，可参考下面网站
+
+[W3Schools(English)](https://www.w3schools.com/js/js_json_intro.asp)
+
+[菜鸟教程(中文)](https://www.runoob.com/json/json-tutorial.html)

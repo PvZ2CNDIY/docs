@@ -29,9 +29,9 @@
 | 旗子木乃伊僵尸 | mummy_flag       |      |
 | 埃及巨人僵尸   | egypt_gargantuar |      |
 | 小鬼木乃伊僵尸 | egypt_imp        |      |
-| 骆驼僵尸       | camel_onehump    | 3人  |
-| 骆驼僵尸       | camel_twohump    | 4人  |
-| 骆驼僵尸       | camel_manyhump   | 6人  |
+| 骆驼僵尸       | camel_onehump    | 3 人 |
+| 骆驼僵尸       | camel_twohump    | 4 人 |
+| 骆驼僵尸       | camel_manyhump   | 6 人 |
 | 法老僵尸       | pharaoh          |      |
 | 太阳神僵尸     | ra               |      |
 | 死神僵尸       | tomb_raiser      |      |
@@ -117,7 +117,7 @@
 | 电磁盾僵尸     | future_protector     |      |
 | 机甲路障僵尸   | mech_cone            |      |
 | 机甲橄榄球僵尸 | football_mech        |      |
-| 迪斯科3000     | disco_mech           |      |
+| 迪斯科 3000    | disco_mech           |      |
 
 ### 黑暗
 
@@ -191,7 +191,7 @@
 | 飞行巨人僵尸   | skycity_gargantuar   |      |
 | 双舱飞机僵尸   | skycity_twinsplane   |      |
 | 闪电枪僵尸     | skycity_electric     |      |
-| 仲裁者-X型     | invisible_plane      |      |
+| 仲裁者-X 型    | invisible_plane      |      |
 | 飞弹僵尸       | air_missile          |      |
 | 飞弹僵尸       | air_missile_launcher |      |
 | 秃鹫战机       | zombossmech_skycity  |      |
@@ -225,9 +225,9 @@
 | 摇滚僵尸       | eighties             |      |
 | 摇滚路障僵尸   | eighties_armor1      |      |
 | 摇滚铁桶僵尸   | eighties_armor2      |      |
-| 8位僵尸        | eighties_8bit        |      |
-| 8位路障僵尸    | eighties_8bit_armor1 |      |
-| 8位铁桶僵尸    | eighties_8bit_armor2 |      |
+| 8 位僵尸       | eighties_8bit        |      |
+| 8 位路障僵尸   | eighties_8bit_armor1 |      |
+| 8 位铁桶僵尸   | eighties_8bit_armor2 |      |
 | 摇滚旗子僵尸   | eighties_flag        |      |
 | 摇滚小鬼僵尸   | eighties_imp         |      |
 | 重金属巨人僵尸 | eighties_gargantuar  |      |
@@ -290,29 +290,29 @@
 
 ### 罗马
 
-| 中文名       | 对应类型              | 备注                                                         |
-| ------------ | --------------------- | ------------------------------------------------------------ |
-| 罗马僵尸     | roman                 |                                                              |
-| 罗马小鬼僵尸 | roman_imp             |                                                              |
-| 罗马巨人僵尸 | roman_gargantuar      |                                                              |
-| 罗马盾牌僵尸 | roman_shield_triad    | 3人                                                          |
-| 罗马盾牌僵尸 | roman_shield_top      | 举头盾的单人                                                 |
-| 罗马盾牌僵尸 | roman_shield_pair     | 双人                                                         |
-| 罗马路障僵尸 | roman_armor1          |                                                              |
-| 罗马铁桶僵尸 | roman_armor2          |                                                              |
-| 百夫长僵尸   | roman_armor3          |                                                              |
-| 石像僵尸     | roman_armor4          |                                                              |
-| 罗马旗帜僵尸 | roman_flag            |                                                              |
-| 治愈者僵尸   | roman_healer          |                                                              |
-| 罗马攻城车   | roman_ballista        |                                                              |
-| 美杜莎僵尸   | roman_medusa          |                                                              |
-| 凯撒僵尸1    | general_caesar_phase1 | 关卡内必定配置！基础血量：15000；结束时撤退。此僵尸为特殊僵尸 |
-| 凯撒僵尸2    | general_caesar_phase2 | 基础血量：16500；结束时撤退。此僵尸为特殊僵尸                |
-| 凯撒僵尸3    | general_caesar_phase3 | 关卡内必定配置！基础血量：18000；结束时死亡。此僵尸为特殊僵尸 |
-| 辣椒僵尸     | zombie_jalapeno       |                                                              |
-| 爆炸坚果僵尸 | zombie_explodenut     |                                                              |
-| 寒冰豌豆僵尸 | zombie_snowpea        |                                                              |
-| 机枪豌豆僵尸 | zombie_gatlingpea     |                                                              |
+| 中文名       | 对应类型              | 备注                                                          |
+| ------------ | --------------------- | ------------------------------------------------------------- |
+| 罗马僵尸     | roman                 |                                                               |
+| 罗马小鬼僵尸 | roman_imp             |                                                               |
+| 罗马巨人僵尸 | roman_gargantuar      |                                                               |
+| 罗马盾牌僵尸 | roman_shield_triad    | 3 人                                                          |
+| 罗马盾牌僵尸 | roman_shield_top      | 举头盾的单人                                                  |
+| 罗马盾牌僵尸 | roman_shield_pair     | 双人                                                          |
+| 罗马路障僵尸 | roman_armor1          |                                                               |
+| 罗马铁桶僵尸 | roman_armor2          |                                                               |
+| 百夫长僵尸   | roman_armor3          |                                                               |
+| 石像僵尸     | roman_armor4          |                                                               |
+| 罗马旗帜僵尸 | roman_flag            |                                                               |
+| 治愈者僵尸   | roman_healer          |                                                               |
+| 罗马攻城车   | roman_ballista        |                                                               |
+| 美杜莎僵尸   | roman_medusa          |                                                               |
+| 凯撒僵尸 1   | general_caesar_phase1 | 关卡内必定配置！基础血量：15000；结束时撤退。此僵尸为特殊僵尸 |
+| 凯撒僵尸 2   | general_caesar_phase2 | 基础血量：16500；结束时撤退。此僵尸为特殊僵尸                 |
+| 凯撒僵尸 3   | general_caesar_phase3 | 关卡内必定配置！基础血量：18000；结束时死亡。此僵尸为特殊僵尸 |
+| 辣椒僵尸     | zombie_jalapeno       |                                                               |
+| 爆炸坚果僵尸 | zombie_explodenut     |                                                               |
+| 寒冰豌豆僵尸 | zombie_snowpea        |                                                               |
+| 机枪豌豆僵尸 | zombie_gatlingpea     |                                                               |
 
 ### 春日
 
@@ -322,9 +322,9 @@
 | 春日铁桶僵尸 | spring_armor1         |                 |
 | 春日铁桶僵尸 | spring_armor2         |                 |
 | 春日举旗僵尸 | spring_flag           |                 |
-| 春日骆驼僵尸 | spring_camel_onehump  | 3人             |
-| 春日骆驼僵尸 | spring_camel_twohump  | 4人             |
-| 春日骆驼僵尸 | spring_camel_manyhump | 6人             |
+| 春日骆驼僵尸 | spring_camel_onehump  | 3 人            |
+| 春日骆驼僵尸 | spring_camel_twohump  | 4 人            |
+| 春日骆驼僵尸 | spring_camel_manyhump | 6 人            |
 | 春日斗篷僵尸 | spring_poncho         | 50%的概率有铁锅 |
 | 春日法师     | spring_wizard         |                 |
 | 春日巨人     | spring_gargantuar     |                 |
@@ -372,9 +372,9 @@
 | 近卫巨人僵尸             | fairy_tale_gargantuar       |                                               |
 | 近卫巨人僵尸（带红皇后） | fairy_tale_armed_gargantuar |                                               |
 | 红皇后小鬼僵尸           | fairy_tale_imp              | 直接配置无特殊能力                            |
-| 魔镜皇后僵尸（阶段1）    | mirror_queen_phase1         | 基础血量：15000；结束时撤退。此僵尸为特殊僵尸 |
-| 魔镜皇后僵尸（阶段2）    | mirror_queen_phase2         | 基础血量：16500；结束时撤退。此僵尸为特殊僵尸 |
-| 魔镜皇后僵尸（阶段3）    | mirror_queen_phase3         | 基础血量：18000；结束时死亡。此僵尸为特殊僵尸 |
+| 魔镜皇后僵尸（阶段 1）   | mirror_queen_phase1         | 基础血量：15000；结束时撤退。此僵尸为特殊僵尸 |
+| 魔镜皇后僵尸（阶段 2）   | mirror_queen_phase2         | 基础血量：16500；结束时撤退。此僵尸为特殊僵尸 |
+| 魔镜皇后僵尸（阶段 3）   | mirror_queen_phase3         | 基础血量：18000；结束时死亡。此僵尸为特殊僵尸 |
 
 ### 其他
 
@@ -424,24 +424,24 @@
 
 ### 圣诞节
 
-| 中文名          | 对应类型                  | 备注               |
-| --------------- | ------------------------- | ------------------ |
-| 圣诞节普通僵尸  | christmas                 |                    |
-| 圣诞节路障僵尸  | christmas_armor1          |                    |
-| 圣诞节铁桶僵尸  | christmas_armor2          |                    |
-| 圣诞节旗帜僵尸  | christmas_flag            |                    |
-| 圣诞节巨人僵尸  | christmas_gargantuar      |                    |
-| 圣诞节小鬼僵尸  | christmas_imp             |                    |
-| 圣诞节巨人僵尸2 | christmas_gargantuar2     |                    |
-| 圣诞节小鬼僵尸2 | christmas_imp2            |                    |
-| 圣诞节骆驼僵尸  | christmas_camel_onehump   | 3人                |
-| 圣诞节骆驼僵尸  | christmas_camel_twohump   | 4人                |
-| 圣诞节骆驼僵尸  | christmas_camel_manyhump  | 6人                |
-| 圣诞节飞索僵尸  | christmas_swashbuckler    |                    |
-| 圣诞节钢琴僵尸  | christmas_piano           |                    |
-| 圣诞节斗篷僵尸  | christmas_poncho          | 50%的概率有壁炉盖  |
-| 圣诞节斗篷僵尸  | christmas_poncho_plate    | 100%的概率有壁炉盖 |
-| 圣诞节斗篷僵尸  | christmas_poncho_no_plate | 0%的概率有壁炉盖   |
+| 中文名           | 对应类型                  | 备注               |
+| ---------------- | ------------------------- | ------------------ |
+| 圣诞节普通僵尸   | christmas                 |                    |
+| 圣诞节路障僵尸   | christmas_armor1          |                    |
+| 圣诞节铁桶僵尸   | christmas_armor2          |                    |
+| 圣诞节旗帜僵尸   | christmas_flag            |                    |
+| 圣诞节巨人僵尸   | christmas_gargantuar      |                    |
+| 圣诞节小鬼僵尸   | christmas_imp             |                    |
+| 圣诞节巨人僵尸 2 | christmas_gargantuar2     |                    |
+| 圣诞节小鬼僵尸 2 | christmas_imp2            |                    |
+| 圣诞节骆驼僵尸   | christmas_camel_onehump   | 3 人               |
+| 圣诞节骆驼僵尸   | christmas_camel_twohump   | 4 人               |
+| 圣诞节骆驼僵尸   | christmas_camel_manyhump  | 6 人               |
+| 圣诞节飞索僵尸   | christmas_swashbuckler    |                    |
+| 圣诞节钢琴僵尸   | christmas_piano           |                    |
+| 圣诞节斗篷僵尸   | christmas_poncho          | 50%的概率有壁炉盖  |
+| 圣诞节斗篷僵尸   | christmas_poncho_plate    | 100%的概率有壁炉盖 |
+| 圣诞节斗篷僵尸   | christmas_poncho_no_plate | 0%的概率有壁炉盖   |
 
 ### 儿童节
 

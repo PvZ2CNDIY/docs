@@ -30,7 +30,7 @@
 
 - `(1)`是模块的`objectclass`名称，`LevelDefinition`即为关卡定义模块
 - `(2)`是这个模块的`objdata`，就是这个模块的各个数据。这是一个 JSON 的对象，在其中的各类键值对取决这个模块的具体需要。
-- `(3)`定义了这个关卡的世界类型，`EgyptStage@LevelModules`就是指神秘埃及，关于其他世界的类型名称，请移步[施工中]
+- `(3)`定义了这个关卡的世界类型，`EgyptStage@LevelModules`就是指神秘埃及，关于其他世界的类型名称，请移步 [TutorialStage](https://pvz2cndiy.github.io/docs/reference/types/modules.html#tutorialstage)
 - `(4)`是这个关卡的名字
 - `(5)`是这个关卡的描述，可以被省略
 - `(6)`是这个关卡的波数
